@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "lite-server",
-    "tsc": "npx tsc",
     "watch": "npx tsc --watch"
   },
   "author": "Maximilian Schwarzmüller",
